@@ -31,15 +31,35 @@ I love building **real-world impactful systems**, especially intelligent systems
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,fastapi,git,github,linux,vscode" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FF00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-00FF9C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge" />
+
 </p>
 
 ---
