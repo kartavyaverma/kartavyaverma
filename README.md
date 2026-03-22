@@ -21,9 +21,9 @@ I love building **real-world impactful systems**, especially intelligent systems
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:sudama7362@gmail.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <a href="mailto:sudama7362@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/kartavyaverma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -95,7 +95,7 @@ I love building **real-world impactful systems**, especially intelligent systems
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartavyaverma&theme=algolia&no-frame=true&margin-w=15" />
+  <img src="https://github-trophies.vercel.app/?username=kartavyaverma" />
 </p>
 
 ---
