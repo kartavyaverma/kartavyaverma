@@ -47,15 +47,15 @@ I love building **real-world impactful systems**, especially intelligent systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartavyaverma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartavyaverma&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartavyaverma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ I love building **real-world impactful systems**, especially intelligent systems
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartavyaverma&theme=tokyonight" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I love building **real-world impactful systems**, especially intelligent systems
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kartavyaverma&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ I love building **real-world impactful systems**, especially intelligent systems
 ## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartavyaverma&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
@@ -95,7 +95,7 @@ I love building **real-world impactful systems**, especially intelligent systems
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=kartavyaverma&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
