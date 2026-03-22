@@ -95,7 +95,7 @@ I love building **real-world impactful systems**, especially intelligent systems
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartavyaverma&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kartavyaverma&theme=algolia&no-frame=true&margin-w=15" />
 </p>
 
 ---
