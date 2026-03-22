@@ -1,14 +1,14 @@
 # Kartavya Verma | AI/ML Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;GenAI+Builder;Cybersecurity+Explorer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;GenAI+Builder;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am **Kartavya Verma**, a passionate Computer Science student focused on **AI/ML, Generative AI, and Cybersecurity**.
+I am **Kartavya Verma**, a passionate Computer Science student focused on **AI/ML and Generative AI**.
 I love building **real-world impactful systems**, especially intelligent systems that evolve and adapt.
 
 * 🚀 Working on: **Advanced ML + GenAI Projects**
@@ -42,7 +42,9 @@ I love building **real-world impactful systems**, especially intelligent systems
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
@@ -52,7 +54,9 @@ I love building **real-world impactful systems**, especially intelligent systems
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Deep%20Learning-FF00FF?style=for-the-badge" />
@@ -91,7 +95,7 @@ I love building **real-world impactful systems**, especially intelligent systems
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartavyaverma&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kartavyaverma&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
 
 ---
