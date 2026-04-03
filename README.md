@@ -13,7 +13,6 @@ I love building **real-world impactful systems**, especially intelligent systems
 
 * 🚀 Working on: **Advanced ML + GenAI Projects**
 * 🧠 Exploring: **LangChain, LLMs, Autonomous Systems**
-* 🔐 Interest: **AI + Cybersecurity Integration**
 * 📫 Email: **[sudama7362@gmail.com](mailto:sudama7362@gmail.com)**
 
 ---
