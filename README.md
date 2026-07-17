@@ -13,7 +13,7 @@ I love building **real-world impactful systems**, especially intelligent systems
 
 * 🚀 Working on: **Advanced ML + GenAI Projects**
 * 🧠 Exploring: **LangChain, LLMs, Autonomous Systems**
-* 📫 Email: **[sudama7362@gmail.com](mailto:sudama7362@gmail.com)**
+* 📫 Email: **[kartavyajobs210105@gmail.com](mailto:kartavyajobs210105@gmail.com)**
 
 ## ⚡ Tech Stack
 
