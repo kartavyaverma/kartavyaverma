@@ -21,20 +21,20 @@ I build **real-world AI/ML and Generative AI systems** — from RAG pipelines an
 
 ## 🛠️ Featured Projects
 
-### 🔹 [AI Legal Contract Analyzer](https://github.com/kartavya)
+### 🔹 [AI Legal Contract Analyzer](https://github.com/kartavyaverma/AI-Legal-Analyzer)
 `FastAPI` · `React` · `LangChain` · `Qdrant` · `OpenAI GPT-4o` — *May 2026*
 - AI-powered legal contract analysis platform extracting 6 critical clause types from PDF/DOCX contracts using GPT-4o, Instructor, and Pydantic, reaching ~92% structured extraction accuracy on CUAD-style contracts.
 - RAG pipeline built with LangChain, OpenAI embeddings, and Qdrant for citation-grounded contract Q&A and clause-level source attribution.
 - FastAPI + React app with automated risk scoring (0–100), baseline contract comparison, and JSON report export, supporting 100+ page documents.
 
-### 🔹 [Crop Disease Prediction](https://github.com/kartavya)
+### 🔹 [Crop Disease Prediction](https://github.com/kartavyaverma/Crop-Disease-Prediction)
 `Python` · `PyTorch` · `EfficientNet` · `FAISS` · `Transformers` · `Gemini API` — *Feb 2026*
 - End-to-end crop disease assistant combining EfficientNet-B0 image classification with a RAG pipeline for agronomy advisory.
 - Dense retrieval system using DistilBERT embeddings + FAISS for intent-aware treatment, prevention, and management responses.
 - Gemini API integration for context-aware generation, with a fallback QA pipeline for robustness without LLM access.
 - Fusion layer combining vision + NLP outputs with confidence-aware logic, deployed via an interactive Streamlit interface.
 
-### 🔹 [Multi-Agent Research Assistant](https://github.com/kartavya)
+### 🔹 [Multi-Agent Research Assistant](https://github.com/kartavyaverma/Multi-Agent-Research-Assistant)
 `LangGraph` · `FastAPI` · `Streamlit` · `Langfuse` · `Ragas` · `Tavily` — *Jul 2026*
 - Multi-agent research pipeline orchestrating Researcher, Drafter, Fact-checker, and Summarizer agents with a bounded self-correction loop for unsupported claims.
 - Cost-aware model routing (GPT-4o-mini for research/fact-checking, GPT-4o for synthesis), served via FastAPI + Streamlit, containerized with Docker.
