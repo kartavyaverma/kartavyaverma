@@ -102,14 +102,6 @@ I build **real-world AI/ML and Generative AI systems** — from RAG pipelines an
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartavyaverma&theme=radical" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 🥈 **Runner-up**, HackAthena 2025 (1,259 teams)
